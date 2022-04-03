@@ -5,7 +5,8 @@ export default props => {
     return (
         <div>
             <DiretaFilho nome="Junior" idade={20} nerd={true} />
-            <DiretaFilho nome="Gabriel" idade={17} nerd={false} />
+            <DiretaFilho nome="Yago" idade={10} nerd={true} />
+            <DiretaFilho nome="Gabriel" idade={15} nerd={false} />
         </div>
     )
 }
